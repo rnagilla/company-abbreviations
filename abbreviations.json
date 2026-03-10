@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "abbreviation": "EOD",
+    "fullForm": "End of Day",
+    "description": "Refers to the close of business hours",
+    "category": "General"
+  },
+  {
+    "id": "2",
+    "abbreviation": "OOO",
+    "fullForm": "Out of Office",
+    "description": "Used when someone is away and unavailable",
+    "category": "General"
+  },
+  {
+    "id": "3",
+    "abbreviation": "KPI",
+    "fullForm": "Key Performance Indicator",
+    "description": "A measurable value used to evaluate success",
+    "category": "Business"
+  },
+  {
+    "id": "4",
+    "abbreviation": "ROI",
+    "fullForm": "Return on Investment",
+    "description": "Measure of profitability relative to cost",
+    "category": "Finance"
+  },
+  {
+    "id": "5",
+    "abbreviation": "SLA",
+    "fullForm": "Service Level Agreement",
+    "description": "Commitment between service provider and client",
+    "category": "Operations"
+  },
+  {
+    "id": "6",
+    "abbreviation": "ETA",
+    "fullForm": "Estimated Time of Arrival",
+    "description": "Predicted time something will be delivered or completed",
+    "category": "General"
+  },
+  {
+    "id": "7",
+    "abbreviation": "ASAP",
+    "fullForm": "As Soon As Possible",
+    "description": "Urgent priority request",
+    "category": "General"
+  },
+  {
+    "id": "8",
+    "abbreviation": "POC",
+    "fullForm": "Point of Contact",
+    "description": "The primary person responsible for communication",
+    "category": "Operations"
+  }
+]
